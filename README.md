@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+Political Coordinates is a clone of SapplyValues, which uses the Sapply political compass combined with 8values' UI.
